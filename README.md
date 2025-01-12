@@ -10,9 +10,9 @@ The dataset usedd in this analysis is the Boston dataset. It contains various fe
 
 <ins> Key Features </ins>
 
-1. crime_above_median: A binary variable created to indicate if the crime rate is above the median (1) or below the median (0).
+1. crime_above_median : A binary variable created to indicate if the crime rate is above the median (1) or below the median (0).
 
-2. Other Features: Various other features from the Boston dataset that are used as predictors.
+2. Other Features : Various other features from the Boston dataset that are used as predictors.
 
 # Steps Performed
 
